@@ -1,0 +1,13 @@
+@import "sp-pbt";
+
+.arcticbit-obake-key {
+  background: $color-sp-pbt-GQT;
+ }
+.arcticbit-obake-mod {
+  background: $color-sp-pbt-RCE;
+  //$color-sp-pbt-RCB
+}
+.arcticbit-obake-arrows, .arcticbit-obake-mod.key-layer {
+  background: white;
+  color: #232d43;
+}
